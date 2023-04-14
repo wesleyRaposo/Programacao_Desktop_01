@@ -65,6 +65,7 @@ Para os "delpheiros", disponibilizei nesse projeto as seguintes implementações
 - Exemplo de uso de "funções" de forma similar ao Delphi. O C# não tem esse recurso, mas você pode construir uma classe estática e colocar nela diversas funções úteis à sua programação e que não estão disponíveis em objetos (e nem precisam estar). Veja o arquivo "Funcoes.cs".
 - Exemplo de um tipo enumerado (ver arquivo "EnumTipoOperacao.cs").
 - Exemplo de uso de base de dados. No caso, o projeto utiliza uma base de dados local, para não depender de nenhum SGDB externo (ver projeto "CabadaDeConexao").
+- Exemplo de programação CRUD. Particularmente o formulário exibe essa funcionalidade de uma maneira simples e dinâmica.
 - Exemplo de MVC. Esse não é o padrão de programação desktop adotado pela comunidade C# mas é uma forma de fazê-lo (similar a uma maneira com a qual trabalhei em Delphi há mais de 15 anos).
   Ele está estruturado da seguinte forma:
   > O formulário FrmUsuario (no projeto "SistemaPrincipal") é a o "view";
